@@ -2,4 +2,4 @@
 
 ## Wakka, Axel, Buebo, MCMike
 
-El objetivo es convinar los conocimientos de frontend, backend y Machine Learning & AI
+El objetivo es combinar los conocimientos de frontend, backend y Machine Learning & AI
